@@ -10,17 +10,20 @@ Promoted Headers: Converted the first row into column headers.
 Changed Data Types: Corrected data types for fields like dates, numbers, and categories.
 Replaced Values: Standardized inconsistent values for better data uniformity.
 Removed Duplicates: Eliminated duplicate records based on the Row ID column to ensure data integrity.
+
 **People Sheet:**
 
 Promoted Headers: First row was used as column headers for proper data structure.
 Changed Data Types: Corrected and standardized data types for consistency.
 Filtered Rows: Removed rows that did not meet specific criteria, ensuring only relevant data is retained.
 Removed Blank Rows: Cleaned the dataset by deleting rows with missing or incomplete information.
+
 **Returns Sheet:**
 
 Promoted Headers: Ensured the first row was set as column headers.
 Changed Data Types: Set appropriate data types for fields to facilitate analysis.
 Removed Duplicates: Cleared duplicate records to maintain data accuracy.
+
 **Interactive Sales Dashboard**
 
 **Global Superstore Interactive Sales Dashboard using Microsoft Power BI:**
