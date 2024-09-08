@@ -1,4 +1,5 @@
 **Global Superstore Data Cleaning and Interactive Sales Dashboard**
+
 This project involves cleaning and preparing the Global Superstore dataset, followed by the creation of an Interactive Sales Dashboard using Microsoft Power BI. The objective is to ensure the dataset is accurate, consistent, and ready for analysis, addressing common data quality issues such as missing values, incorrect data types, and duplicate records. The cleaned data is then used to develop an interactive dashboard for exploring sales performance, market trends, and product behavior.
 
 **Data Cleaning Steps**
